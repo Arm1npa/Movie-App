@@ -124,5 +124,3 @@ Feel free to reach out if you have any questions or need further assistance. Enj
 - [TMDb API](https://www.themoviedb.org/documentation/api) for providing movie and TV show data.
 
 ---
-
-**Note**: This README file assumes that the project structure is organized with separate backend and frontend directories. Adjust paths and commands according to your actual project setup.
