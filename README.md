@@ -122,5 +122,4 @@ Feel free to reach out if you have any questions or need further assistance. Enj
 ### Acknowledgements
 
 - [TMDb API](https://www.themoviedb.org/documentation/api) for providing movie and TV show data.
-
----
+- 
